@@ -310,6 +310,8 @@ We welcome your contributions! If you find any mistakes or omissions, please let
 
 ### Task Interference
 
+- Porrello, A., Buzzega, P., Dangel, F., Sommariva, T., Salami, R., Bonicelli, L., Calderara, S. [Dataless Weight Disentanglement in Task Arithmetic via Kronecker-Factored Approximate Curvature](https://openreview.net/pdf?id=32mrjmaeMP). ICLR, 2026.
+  - Mitigates cross-task interference during task combination using a KFAC regularization approach.
 - Jiang, J., Chen, B., Pan, J., Wang, X., Dapeng, L., Jiang, J., & Long, M.  [ForkMerge: Overcoming Negative Transfer in Multi-Task Learning](http://arxiv.org/abs/2301.12618). ArXiv, 2023.
 - Wang, Z., Lipton, Z. C., & Tsvetkov, Y.  [On Negative Interference in Multilingual Models: Findings and A Meta-Learning Treatment](http://arxiv.org/abs/2010.03017). EMNLP, 2020. 
 - Schaul, T., Borsa, D., Modayil, J., & Pascanu, R.  [Ray Interference: A Source of Plateaus in Deep Reinforcement Learning](http://arxiv.org/abs/1904.11455). Arxiv, 2019. 
